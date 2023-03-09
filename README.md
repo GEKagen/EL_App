@@ -1,1 +1,1 @@
-# EL_App
+# EL_App My course project
